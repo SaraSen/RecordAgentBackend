@@ -1,0 +1,9 @@
+D:\NSBM\7. Seventh Semester\Research\Project\HCMui\Teboscreen\obj\Debug\HCM.ControlPanel.resources
+D:\NSBM\7. Seventh Semester\Research\Project\HCMui\Teboscreen\obj\Debug\HCM.Properties.Resources.resources
+D:\NSBM\7. Seventh Semester\Research\Project\HCMui\Teboscreen\obj\Debug\HCMUI.csproj.GenerateResource.cache
+D:\NSBM\7. Seventh Semester\Research\Project\HCMui\Teboscreen\obj\Debug\HCMUI.csproj.CoreCompileInputs.cache
+D:\NSBM\7. Seventh Semester\Research\Project\HCMui\Teboscreen\bin\Debug\HCM.exe
+D:\NSBM\7. Seventh Semester\Research\Project\HCMui\Teboscreen\bin\Debug\HCM.pdb
+D:\NSBM\7. Seventh Semester\Research\Project\HCMui\Teboscreen\obj\Debug\HCM.exe
+D:\NSBM\7. Seventh Semester\Research\Project\HCMui\Teboscreen\obj\Debug\HCM.pdb
+D:\NSBM\7. Seventh Semester\Research\Project\HCMui\Teboscreen\obj\Debug\HCMUI.csprojAssemblyReference.cache

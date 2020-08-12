@@ -1,0 +1,9 @@
+D:\NSBM\7. Seventh Semester\Research\Project\HCMui\HCMRecorder\bin\Release\HCM.exe
+D:\NSBM\7. Seventh Semester\Research\Project\HCMui\HCMRecorder\bin\Release\HCM.pdb
+D:\NSBM\7. Seventh Semester\Research\Project\HCMui\HCMRecorder\obj\Release\HCMUI.csprojAssemblyReference.cache
+D:\NSBM\7. Seventh Semester\Research\Project\HCMui\HCMRecorder\obj\Release\HCM.ControlPanel.resources
+D:\NSBM\7. Seventh Semester\Research\Project\HCMui\HCMRecorder\obj\Release\HCM.Properties.Resources.resources
+D:\NSBM\7. Seventh Semester\Research\Project\HCMui\HCMRecorder\obj\Release\HCMUI.csproj.GenerateResource.cache
+D:\NSBM\7. Seventh Semester\Research\Project\HCMui\HCMRecorder\obj\Release\HCMUI.csproj.CoreCompileInputs.cache
+D:\NSBM\7. Seventh Semester\Research\Project\HCMui\HCMRecorder\obj\Release\HCM.exe
+D:\NSBM\7. Seventh Semester\Research\Project\HCMui\HCMRecorder\obj\Release\HCM.pdb
